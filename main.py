@@ -10,6 +10,7 @@ def print_hi(name):
     print('this is my first time using pycharm')
     print('hello')
     print('want to push')
+    print('try')
 
 
 # Press the green button in the gutter to run the script.
